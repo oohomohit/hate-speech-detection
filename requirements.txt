@@ -1,0 +1,5 @@
+snscrape==0.7.0.20230622
+pandas==1.5.3
+transformers==4.21.2 
+torch==2.2.2
+python-dotenv==0.20.0
